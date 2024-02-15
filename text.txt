@@ -1,0 +1,3 @@
+To open an Apache Server and use Save Password(database) Feature->
+1.First import file in -> C:\xampp\htdocs\Password Generator
+2.Then on Chrome Browser -> localhost/PasswordGenerator/index.html
